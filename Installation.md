@@ -10,7 +10,7 @@ In this Guide, we will join the Drosera testnet by:
 * 2 CPU Cores
 * 4 GB RAM
 * 20 GB Disk Space
-* Get started with a low-budget `VPS` for as low as $5! [Purchase here](https://nodes.garden/) Use this referral code to get 10% bonus: NAHID
+* Get started with a low-budget `VPS` for as low as $5! [Purchase here](https://xorek.cloud/?from=25924)
 * Create your own `Ethereum Holesky RPC` in [Alchemy](https://dashboard.alchemy.com/) or [QuickNode](https://dashboard.quicknode.com/).
   
 
